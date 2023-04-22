@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = qb-customs
+	branch = main
+	commit = 98dd0a3bfd99d5bfd9896f0b97e3ff3e44f7f9a3
+	parent = d6eba38f892bef45c9b4b4f922c2ea316283123b
+	method = merge
+	cmdver = 0.4.3
